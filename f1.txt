@@ -1,2 +1,3 @@
 welcome to devops
 stjit
+git status
